@@ -10,3 +10,12 @@ I create one to share everyone.
 It's very very alpha although, any help will be appliciated.
 
 Shota Watanabe < shota.w@gmail.com >
+
+Usage
+============================
+
+Just place CompositKeyModel.php to your Model folder in CakePHP 2.x
+
+Load the file and define Model class extends that Model.
+
+Enjoy.

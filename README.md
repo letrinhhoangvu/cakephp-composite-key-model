@@ -1,7 +1,7 @@
-cakephp-composit-key-model
+cakephp-composite-key-model
 ==========================
 
-Composit key (multiple primary key) CakePHP 2.x model wrapper
+Composite primary key (multiple primary key) CakePHP 2.x model wrapper
 
 CakePHP usually supports only one primary key and it works fine when we usually developing web applications.
 But If you want to create crawler/bigger application you might be worry about CakePHP doesn't support.
@@ -14,7 +14,7 @@ Shota Watanabe < shota.w@gmail.com >
 Usage
 ============================
 
-Just place CompositKeyModel.php to your Model folder in CakePHP 2.x
+Just place CompositeKeyModel.php to your Model folder in CakePHP 2.x
 
 Load the file and define Model class extends that Model.
 
